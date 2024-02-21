@@ -1,4 +1,6 @@
-# Bkash
+### 🌱 bKash is the fastest and safest medium of financial transaction. Here I have tested bkash CS online portal.
+![image](https://github.com/Isratjahan1790/Bkash/assets/112747904/4b9f6883-3985-452f-a9ae-a19e7a463082)
+
 ## 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/tN5CW8d.gif">
 
